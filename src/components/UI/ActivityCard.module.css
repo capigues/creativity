@@ -1,0 +1,15 @@
+.activity {
+    margin: 15px;
+    width: 250px;
+    flex: 1 1 auto;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    background-color: lightgrey;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.activity:hover {
+    border-color: blue;
+}
